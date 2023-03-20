@@ -1,0 +1,143 @@
+{
+	"greens" :
+	[
+		{
+		"name" : "GreenYellow",
+		"hex" : "#ADFF2F",
+		"rgb" : "173,255,47",
+		"lowercase" : "greenyellow"
+		},
+		{
+		"name" : "Chartreuse",
+		"hex" : "#7FFF00",
+		"rgb" : "127,255,0",
+		"lowercase" : "chartreuse"
+		},
+		{
+		"name" : "LawnGreen",
+		"hex" : "#7CFC00",
+		"rgb" : "124,252,0",
+		"lowercase" : "lawngreen"
+		},
+		{
+		"name" : "Lime",
+		"hex" : "#00FF00",
+		"rgb" : "0,255,0",
+		"lowercase" : "lime"
+		},
+		{
+		"name" : "LimeGreen",
+		"hex" : "#32CD32",
+		"rgb" : "50,205,50",
+		"lowercase" : "limegreen"
+		},
+		{
+		"name" : "PaleGreen",
+		"hex" : "#98FB98",
+		"rgb" : "152,251,152",
+		"lowercase" : "palegreen"
+		},
+		{
+		"name" : "LightGreen",
+		"hex" : "#90EE90",
+		"rgb" : "144,238,144",
+		"lowercase" : "lightgreen"
+		},
+		{
+		"name" : "MediumSpringGreen",
+		"hex" : "#00FA9A",
+		"rgb" : "0,250,154",
+		"lowercase" : "mediumspringgreen"
+		},
+		{
+		"name" : "SpringGreen",
+		"hex" : "#00FF7F",
+		"rgb" : "0,255,127",
+		"lowercase" : "springgreen"
+		},
+		{
+		"name" : "MediumSeaGreen",
+		"hex" : "#3CB371",
+		"rgb" : "60,179,113",
+		"lowercase" : "mediumseagreen"
+		},
+		{
+		"name" : "SeaGreen",
+		"hex" : "#2E8B57",
+		"rgb" : "46,139,87",
+		"lowercase" : "seagreen"
+		},
+		{
+		"name" : "ForestGreen",
+		"hex" : "#228B22",
+		"rgb" : "34,139,34",
+		"lowercase" : "forestgreen"
+		},
+		{
+		"name" : "Green",
+		"hex" : "#008000",
+		"rgb" : "0,128,0",
+		"lowercase" : "green"
+		},
+		{
+		"name" : "DarkGreen",
+		"hex" : "#006400",
+		"rgb" : "0,100,0",
+		"lowercase" : "darkgreen"
+		},
+		{
+		"name" : "YellowGreen",
+		"hex" : "#9ACD32",
+		"rgb" : "154,205,50",
+		"lowercase" : "yellowgreen"
+		},
+		{
+		"name" : "OliveDrab",
+		"hex" : "#6B8E23",
+		"rgb" : "107,142,35",
+		"lowercase" : "olivedrab"
+		},
+		{
+		"name" : "Olive",
+		"hex" : "#808000",
+		"rgb" : "128,128,0",
+		"lowercase" : "olive"
+		},
+		{
+		"name" : "DarkOliveGreen",
+		"hex" : "#556B2F",
+		"rgb" : "85,107,47",
+		"lowercase" : "darkolivegreen"
+		},
+		{
+		"name" : "MediumAquamarine",
+		"hex" : "#66CDAA",
+		"rgb" : "102,205,170",
+		"lowercase" : "mediumaquamarine"
+		},
+		{
+		"name" : "DarkSeaGreen",
+		"hex" : "#8FBC8F",
+		"rgb" : "143,188,143",
+		"lowercase" : "darkseagreen"
+		},
+		{
+		"name" : "LightSeaGreen",
+		"hex" : "#20B2AA",
+		"rgb" : "32,178,170",
+		"lowercase" : "lightseagreen"
+		},
+		{
+		"name" : "DarkCyan",
+		"hex" : "#008B8B",
+		"rgb" : "0,139,139",
+		"lowercase" : "darkcyan"
+		},
+		{
+		"name" : "Teal",
+		"hex" : "#008080",
+		"rgb" : "0,128,128",
+		"lowercase" : "teal"
+		}
+	]
+}
