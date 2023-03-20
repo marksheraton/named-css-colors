@@ -1,0 +1,35 @@
+{
+	"oranges" :
+	[
+		{
+		"name" : "Coral",
+		"hex" : "#FF7F50",
+		"rgb" : "255,127,80",
+		"lowercase" : "Coral"
+		},
+		{
+		"name" : "Tomato",
+		"hex" : "#FF6347",
+		"rgb" : "255,99,71",
+		"lowercase" : "tomato"
+		},
+		{
+		"name" : "OrangeRed",
+		"hex" : "#FF4500",
+		"rgb" : "255,69,0",
+		"lowercase" : "orangered"
+		},
+		{
+		"name" : "DarkOrange",
+		"hex" : "#FF8C00",
+		"rgb" : "255,140,0",
+		"lowercase" : "darkorange"
+		},
+		{
+		"name" : "Orange",
+		"hex" : "#FFA500",
+		"rgb" : "255,165,0",
+		"lowercase" : "orange"
+		}
+	]
+}
