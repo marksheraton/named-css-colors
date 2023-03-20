@@ -1,0 +1,149 @@
+{
+	"blues" :
+	[
+		{
+		"name" : "Aqua",
+		"hex" : "#00FFFF",
+		"rgb" : "0,255,255",
+		"lowercase" : "aqua"
+		},
+		{
+		"name" : "Cyan",
+		"hex" : "#00FFFF",
+		"rgb" : "0,255,255",
+		"lowercase" : "cyan"
+		},
+		{
+		"name" : "LightCyan",
+		"hex" : "#E0FFFF",
+		"rgb" : "224,255,255",
+		"lowercase" : "lightcyan"
+		},
+		{
+		"name" : "PaleTurquoise",
+		"hex" : "#AFEEEE",
+		"rgb" : "175,238,238",
+		"lowercase" : "paleturquoise"
+		},
+		{
+		"name" : "Aquamarine",
+		"hex" : "#7FFFD4",
+		"rgb" : "127,255,212",
+		"lowercase" : "aquamarine"
+		},
+		{
+		"name" : "Turquoise",
+		"hex" : "#40E0D0",
+		"rgb" : "64,224,208",
+		"lowercase" : "turquoise"
+		},
+		{
+		"name" : "MediumTurquoise",
+		"hex" : "#48D1CC",
+		"rgb" : "72,209,204",
+		"lowercase" : "mediumturquoise"
+		},
+		{
+		"name" : "DarkTurquoise",
+		"hex" : "#00CED1",
+		"rgb" : "0,206,209",
+		"lowercase" : "darkturquoise"
+		},
+		{
+		"name" : "CadetBlue",
+		"hex" : "#5F9EA0",
+		"rgb" : "95,158,160",
+		"lowercase" : "cadetblue"
+		},
+		{
+		"name" : "SteelBlue",
+		"hex" : "#4682B4",
+		"rgb" : "70,130,180",
+		"lowercase" : "steelblue"
+		},
+		{
+		"name" : "LightSteelBlue",
+		"hex" : "#B0C4DE",
+		"rgb" : "176,196,222",
+		"lowercase" : "lightsteelblue"
+		},
+		{
+		"name" : "PowderBlue",
+		"hex" : "#B0E0E6",
+		"rgb" : "176,224,230",
+		"lowercase" : "powderblue"
+		},
+		{
+		"name" : "LightBlue",
+		"hex" : "#ADD8E6",
+		"rgb" : "173,216,230",
+		"lowercase" : "lightblue"
+		},
+		{
+		"name" : "SkyBlue",
+		"hex" : "#87CEEB",
+		"rgb" : "135,206,235",
+		"lowercase" : "skyblue"
+		},
+		{
+		"name" : "LightSkyBlue",
+		"hex" : "#87CEFA",
+		"rgb" : "135,206,250",
+		"lowercase" : "lightskyblue"
+		},
+		{
+		"name" : "DeepSkyBlue",
+		"hex" : "#00BFFF",
+		"rgb" : "0,191,255",
+		"lowercase" : "deepskyblue"
+		},
+		{
+		"name" : "DodgerBlue",
+		"hex" : "#1E90FF",
+		"rgb" : "30,144,255",
+		"lowercase" : "dodgerblue"
+		},
+		{
+		"name" : "CornflowerBlue",
+		"hex" : "#6495ED",
+		"rgb" : "100,149,237",
+		"lowercase" : "cornflowerblue"
+		},
+		{
+		"name" : "RoyalBlue",
+		"hex" : "#4169E1",
+		"rgb" : "65,105,225",
+		"lowercase" : "royalblue"
+		},
+		{
+		"name" : "Blue",
+		"hex" : "#0000FF",
+		"rgb" : "0,0,255",
+		"lowercase" : "blue"
+		},
+		{
+		"name" : "MediumBlue",
+		"hex" : "#0000CD",
+		"rgb" : "0,0,205",
+		"lowercase" : "mediumblue"
+		},
+		{
+		"name" : "DarkBlue",
+		"hex" : "#00008B",
+		"rgb" : "0,0,139",
+		"lowercase" : "darkblue"
+		},
+		{
+		"name" : "Navy",
+		"hex" : "#000080",
+		"rgb" : "0,0,128",
+		"lowercase" : "navy"
+		},
+		{
+		"name" : "MidnightBlue",
+		"hex" : "#191970",
+		"rgb" : "25,25,112",
+		"lowercase" : "midnightblue"
+		}
+	]
+}
