@@ -1,0 +1,107 @@
+{
+	"grays" :
+	[
+		{
+		"name" : "Gainsboro",
+		"hex" : "#DCDCDC",
+		"rgb" : "220,220,220",
+		"lowercase" : "gainsboro"
+		},
+		{
+		"name" : "LightGray",
+		"hex" : "#D3D3D3",
+		"rgb" : "D3D3D3",
+		"lowercase" : "lightgray"
+		},
+		{
+		"name" : "LightGrey",
+		"hex" : "#D3D3D3",
+		"rgb" : "D3D3D3",
+		"lowercase" : "lightgrey"
+		},
+		{
+		"name" : "Silver",
+		"hex" : "#C0C0C0",
+		"rgb" : "192,192,192",
+		"lowercase" : "silver"
+		},
+		{
+		"name" : "DarkGray",
+		"hex" : "#A9A9A9",
+		"rgb" : "169,169,169",
+		"lowercase" : "darkgray"
+		},
+		{
+		"name" : "DarkGrey",
+		"hex" : "#A9A9A9",
+		"rgb" : "169,169,169",
+		"lowercase" : "darkgrey"
+		},
+		{
+		"name" : "Gray",
+		"hex" : "#808080",
+		"rgb" : "128,128,128",
+		"lowercase" : "gray"
+		},
+		{
+		"name" : "Grey",
+		"hex" : "#808080",
+		"rgb" : "128,128,128",
+		"lowercase" : "grey"
+		},
+		{
+		"name" : "DimGray",
+		"hex" : "#696969",
+		"rgb" : "105,105,105",
+		"lowercase" : "dimgray"
+		},
+		{
+		"name" : "DimGrey",
+		"hex" : "#696969",
+		"rgb" : "105,105,105",
+		"lowercase" : "dimgrey"
+		},
+		{
+		"name" : "LightSlateGray",
+		"hex" : "#778899",
+		"rgb" : "119,136,153",
+		"lowercase" : "lightslategray"
+		},
+		{
+		"name" : "LightSlateGrey",
+		"hex" : "#778899",
+		"rgb" : "119,136,153",
+		"lowercase" : "lightslategrey"
+		},
+		{
+		"name" : "SlateGray",
+		"hex" : "#708090",
+		"rgb" : "112,128,144",
+		"lowercase" : "slategray"
+		},
+		{
+		"name" : "SlateGrey",
+		"hex" : "#708090",
+		"rgb" : "112,128,144",
+		"lowercase" : "slategrey"
+		},
+		{
+		"name" : "DarkSlateGray",
+		"hex" : "#2F4F4F",
+		"rgb" : "47,79,79",
+		"lowercase" : "darkslategray"
+		},
+		{
+		"name" : "DarkSlateGrey",
+		"hex" : "#2F4F4F",
+		"rgb" : "47,79,79",
+		"lowercase" : "darkslategrey"
+		},
+		{
+		"name" : "Black",
+		"hex" : "#000000",
+		"rgb" : "0,0,0",
+		"lowercase" : "black"
+		}
+	]
+}
