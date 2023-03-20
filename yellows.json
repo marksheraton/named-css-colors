@@ -1,0 +1,71 @@
+{
+	"yellows" :
+	[
+		{
+		"name" : "Gold",
+		"hex" : "#FFD700",
+		"rgb" : "255,215,0",
+		"lowercase" : "gold"
+		},
+		{
+		"name" : "Yellow",
+		"hex" : "#FFFF00",
+		"rgb" : "255,255,0",
+		"lowercase" : "yellow"
+		},
+		{
+		"name" : "LightYellow",
+		"hex" : "#FFFFE0",
+		"rgb" : "255,255,224",
+		"lowercase" : "lightyellow"
+		},
+		{
+		"name" : "LemonChiffon",
+		"hex" : "#FFFACD",
+		"rgb" : "255,250,205",
+		"lowercase" : "lemonchiffon"
+		},
+		{
+		"name" : "LightGoldenrodYellow",
+		"hex" : "#FAFAD2",
+		"rgb" : "250,250,210",
+		"lowercase" : "lightgoldenrodyellow"
+		},
+		{
+		"name" : "PapayaWhip",
+		"hex" : "#FFEFD5",
+		"rgb" : "255,239,213",
+		"lowercase" : "papayawhip"
+		},
+		{
+		"name" : "Moccasin",
+		"hex" : "#FFE4B5",
+		"rgb" : "255,228,181",
+		"lowercase" : "moccasin"
+		},
+		{
+		"name" : "PeachPuff",
+		"hex" : "#FFDAB9",
+		"rgb" : "255,218,185",
+		"lowercase" : "peachpuff"
+		},
+		{
+		"name" : "PaleGoldenrod",
+		"hex" : "#EEE8AA",
+		"rgb" : "238,232,170",
+		"lowercase" : "palegoldenrod"
+		},
+		{
+		"name" : "Khaki",
+		"hex" : "#F0E68C",
+		"rgb" : "240,230,140",
+		"lowercase" : "khaki"
+		},
+		{
+		"name" : "DarkKhaki",
+		"hex" : "#BDB76B",
+		"rgb" : "189,183,107",
+		"lowercase" : "darkkhaki"
+		}
+	]
+}
