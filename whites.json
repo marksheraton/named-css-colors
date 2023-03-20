@@ -1,0 +1,107 @@
+{
+	"whites" :
+	[
+		{
+		"name" : "White",
+		"hex" : "#FFFFFF",
+		"rgb" : "255,255,255",
+		"lowercase" : "white"
+		},
+		{
+		"name" : "Snow",
+		"hex" : "#FFFAFA",
+		"rgb" : "255,250,250",
+		"lowercase" : "snow"
+		},
+		{
+		"name" : "Honeydew",
+		"hex" : "#F0FFF0",
+		"rgb" : "240,255,240",
+		"lowercase" : "honeydew"
+		},
+		{
+		"name" : "MintCream",
+		"hex" : "#F5FFFA",
+		"rgb" : "245,255,250",
+		"lowercase" : "mintcream"
+		},
+		{
+		"name" : "Azure",
+		"hex" : "#F0FFFF",
+		"rgb" : "240,255,255",
+		"lowercase" : "azure"
+		},
+		{
+		"name" : "AliceBlue",
+		"hex" : "#F0F8FF",
+		"rgb" : "240,248,255",
+		"lowercase" : "aliceblue"
+		},
+		{
+		"name" : "GhostWhite",
+		"hex" : "#F8F8FF",
+		"rgb" : "248,248,255",
+		"lowercase" : "ghostwhite"
+		},
+		{
+		"name" : "WhiteSmoke",
+		"hex" : "#F5F5F5",
+		"rgb" : "245,245,245",
+		"lowercase" : "whitesmoke"
+		},
+		{
+		"name" : "Seashell",
+		"hex" : "#FFF5EE",
+		"rgb" : "255,245,238",
+		"lowercase" : "seashell"
+		},
+		{
+		"name" : "Beige",
+		"hex" : "#F5F5DC",
+		"rgb" : "245,245,220",
+		"lowercase" : "beige"
+		},
+		{
+		"name" : "OldLace",
+		"hex" : "#FDF5E6",
+		"rgb" : "253,245,230",
+		"lowercase" : "oldlace"
+		},
+		{
+		"name" : "FloralWhite",
+		"hex" : "#FFFAF0",
+		"rgb" : "255,250,240",
+		"lowercase" : "floralwhite"
+		},
+		{
+		"name" : "Ivory",
+		"hex" : "#FFFFF0",
+		"rgb" : "255,255,240",
+		"lowercase" : "ivory"
+		},
+		{
+		"name" : "AntiqueWhite",
+		"hex" : "#FAEBD7",
+		"rgb" : "250,235,215",
+		"lowercase" : "antiquewhite"
+		},
+		{
+		"name" : "Linen",
+		"hex" : "#FAF0E6",
+		"rgb" : "250,240,230",
+		"lowercase" : "linen"
+		},
+		{
+		"name" : "LavenderBlush",
+		"hex" : "#FFF0F5",
+		"rgb" : "255,240,245",
+		"lowercase" : "lavenderblush"
+		},
+		{
+		"name" : "MistyRose",
+		"hex" : "#FFE4E1",
+		"rgb" : "255,228,225",
+		"lowercase" : "mistyrose"
+		}
+	]
+}
