@@ -1,0 +1,41 @@
+{
+	"pinks" :
+	[
+		{
+		"name" : "Pink",
+		"hex" : "#FFC0CB",
+		"rgb" : "255,192,203",
+		"lowercase" : "pink"
+		},
+		{
+		"name" : "LightPink",
+		"hex" : "#FFB6C1",
+		"rgb" : "255,182,193",
+		"lowercase" : "lightpink"
+		},
+		{
+		"name" : "HotPink",
+		"hex" : "#FF69B4",
+		"rgb" : "255,105,180",
+		"lowercase" : "hotpink"
+		},
+		{
+		"name" : "DeepPink",
+		"hex" : "#FF1493",
+		"rgb" : "255,20,147",
+		"lowercase" : "deeppink"
+		},
+		{
+		"name" : "MediumVioletRed",
+		"hex" : "#C71585",
+		"rgb" : "199,21,133",
+		"lowercase" : "mediumvioletred"
+		},
+		{
+		"name" : "PaleVioletRed",
+		"hex" : "#DB7093",
+		"rgb" : "219,112,147",
+		"lowercase" : "palevioletred"
+		}
+	]
+}
